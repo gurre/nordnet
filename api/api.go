@@ -19,7 +19,7 @@ import (
 )
 
 const (
-	NNBASEURL    = `https://api.test.nordnet.se/next`
+	NNBASEURL    = `https://www.nordnet.se/next`
 	NNSERVICE    = `NEXTAPI`
 	NNAPIVERSION = `2`
 )
